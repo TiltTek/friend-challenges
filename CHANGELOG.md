@@ -4,6 +4,12 @@ All notable changes to `tilttek/friend-challenges` will be documented in this fi
 
 Updates should follow the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## 0.1.1-alpha - 2026-11-20
+
+### Changed
+
+- `tilttek/points` 0.2 required: 0.1 is no longer accepted.
+
 ## 0.1.0-alpha - 2026-11-14
 
 ### Added
